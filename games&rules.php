@@ -1,15 +1,15 @@
 <?php include 'header.php'; ?>
-<H1 id="gj">PITHOO OR 7 stones</H1><br>
+<H1 id="gi"><center>PITHOO OR 7 stones</center></H1><br>
  
 
-<center><img src="pithoo.png" id="h" ></center>
+<center><img src="pithoo.png" id="gi" ></center>
     
 <h1 id="gi"><B> Pithoo or seven stones, traditionally known as Pittu Garam, is a traditional South Asian game played between two teams. The game is called Lagori in kannada. The game requires a  ball and set of seven stones which can be stacked up to form a small tower. The aim of the game is to be able to break the tower and then rebuild it before getting hit by one of the opponent</B></h1>
 <br>
 <br>
 <br>
 
-<H1 id="gj">HOW TO PLAY ?</H1><br>
+<H1 id="gi"><center>HOW TO PLAY ?</center></H1><br>
 <h1 id="gi"><B>1) Divide the players into two teams. Let there be team A and team B.<br><br>
 2) Each player in team A takes their turn in breaking the tower from a certain distance using a tennis ball.<br><br>
 3) A player from team B is assigned to catch the ball after it gets thrown by <br>team A. The rest of team B become fielders.<br><br>
@@ -22,7 +22,7 @@
 <br>
 
 
-<H1 id="gi" align="center">RULES</H1><br>
+<H1 id="gi"><center>RULES</center></H1><br>
 <h1 id="gi"><B>1) Each player gets three tries for attempting to break the tower. If the player fails to break the tower, next player comes in.<br><br>
 2) If a team is successful in getting a pittu, the player which broke the tower gets an additional three tries.<br><br>
 3) If a player successfully breaks the tower but a player from the opposite team catches the ball before it hits the ground, then the attacking player is deprived of his remaining tries.<br><br>
@@ -32,7 +32,7 @@
 <br>
 <hr width="100%">
 <br>
-<H1 id="gj">STAPU OR HOPSCOTCH</H1><br>
+<H1 id="gi"><center>STAPU OR HOPSCOTCH</center></H1><br>
  
 
 <center><img src="hopscotch.png" id="h" ></center>
@@ -40,14 +40,14 @@
 <h1 id="gi"><B> Hopscotch is a children's game that can be played with several players or alone. Hopscotch is a popular playground game in which players toss a small object into numbered triangles or a pattern of rectangles outlined on the ground and then hop or jump through the spaces to retrieve the object.</B></h1>
 <br>
 <br>
-<br><H1 id="gd">THE COURT</H1><br>
+<br><H1 id="gi"><center>THE COURT</center></H1><br>
 <center><img src="hopscotchField.png" id="f" ><center>
 <h1 id="gi"><B>1) To play hopscotch, a court is first laid out on the ground. Depending on the available surface, the court is either scratched out in the dirt or drawn with chalk on pavement. Courts may be permanently marked where playgrounds are commonly paved, as in elementary schools. Designs vary, but the court is usually composed of a series of linear squares interspersed with blocks of two lateral squares. <br><br>2) Traditionally the court ends with a "safe" or "home" base in which the player may turn before completing the reverse trip. The home base may be a square, a rectangle, or a semicircle. The squares are then numbered in the sequence in which they are to be hopped.</B></h1><br>
 <br>
 <br>
 
 
-<H1 id="gn">HOW TO PLAY ?</H1><br>
+<H1 id="gi"><center>HOW TO PLAY ?</center></H1><br>
 <h1 id="gi"><B>1) The first player tosses a stone or marker also called a "lucky", onto the court. This object should land in the square without bouncing, sliding, or rolling out. It is typically a small flat stone, coin, bean bag, or small chain with a charm (in Ireland, it is usually played with an old shoe polish tin or flat stone, called a piggy)[citation needed]. The marker must land completely within the square without touching the line. The player then hops through the course, skipping the square with the marker in it. Single squares must be hopped on one foot. For the first single square, either foot may be used. Side-by-side squares are straddled, with the left foot landing in the left square, and the right foot landing in the right square. Optional squares marked "Safe", "Home", or "Rest" are neutral squares, and may be hopped through in any manner without penalty. After hopping into "Safe", "Home", or "Rest", the player must then turn around and return through the course (square 9, then squares 8 and 7, next square 6, and so forth) on one or two legs depending on the square until reaching the square with the marker. The player stops in the square before the marker[2][3][4] and reaches down to retrieve the marker and continue the course as stated, without touching a line or stepping into a square with another player's marker.<br><br>
 
 2) Upon successfully completing the sequence, the player continues the turn by tossing the marker into square number two, and repeating the pattern.<br><br>
